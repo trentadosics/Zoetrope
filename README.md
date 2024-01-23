@@ -3,9 +3,9 @@ This is a hand-held zoetrope, which allows to enjoy a simple animation, rotating
 
 [EN] What is it? https://en.wikipedia.org/wiki/Zoetrope 
 
-Zoetrope is one of the pre-film animation device, which physical principle is based on the persistance of vision. 
-Related to the animation, you can draw the picture strip or search it on internet.
-This zoetrope has a potentiometer inside to control the rotation speed.
+- Zoetrope is one of the pre-film animation device, which physical principle is based on the persistance of vision. 
+- Related to the animation, you can draw the picture strip or search it on internet.
+- This zoetrope has a potentiometer inside to control the rotation speed.
  
 [CAT] Què és? https://ca.wikipedia.org/wiki/Zo%C3%B2trop
 
