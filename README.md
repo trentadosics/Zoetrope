@@ -1,5 +1,6 @@
 # Zoetrope
 This is a hand-held zoetrope, which allows to enjoy a simple animation rotating a picture strips inside a cylinder.
+It is a university project (UPC, Barcelona) made in 2014.
 
 [EN] What is it? https://en.wikipedia.org/wiki/Zoetrope 
 - Zoetrope is one of the pre-film animation device, which physical principle is based on the persistance of vision. 
