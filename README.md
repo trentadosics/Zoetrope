@@ -4,7 +4,7 @@ University project (UPC, Barcelona) - 2014
 This is a hand-held zoetrope, which allows you to enjoy a simple animation rotating a picture strips inside a cylinder.
 
 [EN] What is it? https://en.wikipedia.org/wiki/Zoetrope 
-- Zoetrope is one of the pre-film animation device, which physical principle is based on the persistance of vision. 
+- Zoetrope is one of the pre-film animation devices, which physical principle is based on the persistance of vision. 
 - Related to the animation, you can draw the picture strip or search it on internet.
 - This zoetrope has a potentiometer inside to control the rotation speed.
  
