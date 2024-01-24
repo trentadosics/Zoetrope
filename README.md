@@ -1,6 +1,8 @@
 # Zoetrope
 University project (UPC, Barcelona) - 2014
 
+**Description:**
+
 This is a hand-held zoetrope, which allows you to enjoy a simple animation rotating a picture strips inside a cylinder.
 
 [EN] What is it? https://en.wikipedia.org/wiki/Zoetrope 
