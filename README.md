@@ -1,5 +1,5 @@
 # Zoetrope
-*University project (UPC, Barcelona) - 2014*
+University project (UPC, Barcelona) - 2014
 
 ## Description
 
